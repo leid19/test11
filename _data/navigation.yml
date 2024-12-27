@@ -13,11 +13,8 @@ main:
   - title: "Projects"
     url: ./#projects
 
-  - title: "News"
+  - title: "News1"
     url: ./#news
-
-  - title: "Blogs"
-    url: ./blog/
 
   - title: "Bio"
     url: ./#about-me
